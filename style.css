@@ -192,3 +192,25 @@ input[type=submit]{
     padding: 10px 30px;
     cursor: pointer;
 }
+
+    @media only screen and (max-width: 980px){
+        nav{
+            padding-right: 20px;
+        }
+        #masthead{
+            width: 660px;
+        }
+        body{
+            margin: 150px;
+        }
+        .auth-imge{
+            width: 300px;
+            
+        }
+
+
+    }
+
+
+
+}
